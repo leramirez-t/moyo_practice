@@ -1,0 +1,30 @@
+{
+  "name": "moyo_practice",
+  "version": "1.0.0",
+  "description": "Practicando Maquetado de Moyo",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "next": "^12.0.3",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leramirez-t/moyo_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leramirez-t/moyo_practice/issues"
+  },
+  "homepage": "https://github.com/leramirez-t/moyo_practice#readme"
+}
